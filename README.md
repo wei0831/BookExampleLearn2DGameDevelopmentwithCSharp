@@ -1,7 +1,7 @@
-#Book Example Code for <br>"Learn 2D Game Development with C&#35;"
+#Book Example Code for <br>[Learn 2D Game Development with C&#35;](http://www.apress.com/9781430266044)
 This series of demos accompanies the book <br>
 "Learn 2D Game Development with C#"<br>
-By Jebediah Pavleas, Jack Chang, Kelvin Sung, Rob Zhu
+By Jebediah Pavleas, [Jack Chang](http://wei0831.net), Kelvin Sung, Rob Zhu
 
 ISBN13: 978-1-4302-6604-4 <br>
 292 Pages <br>
@@ -32,6 +32,8 @@ related and unrelated to this book.
 * OpenGL : [http://www.opengl.org/](http://www.opengl.org/)
 
 * XNA : [https://msxna.codeplex.com/](https://msxna.codeplex.com/)
+
+* MonoGame : [http://www.monogame.net/](http://www.monogame.net/)
 
 * Silverlight : [http://msdn.microsoft.com/silverlight/bb187358.aspx](http://msdn.microsoft.com/silverlight/bb187358.aspx)
 
