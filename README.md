@@ -21,7 +21,7 @@ You need the following:
 * Microsoft Visual Studio : [http://www.visualstudio.com/](http://www.visualstudio.com/)
 * MonoGame : [http://www.monogame.net/](http://www.monogame.net/)
 
-#Technioloy References
+#Technology References
 The following list offers several links for obtaining additional information on general topics both
 related and unrelated to this book.
 
