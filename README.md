@@ -1,27 +1,27 @@
-#Book Example Code for <br>[Learn 2D Game Development with C&#35;](http://www.apress.com/9781430266044)
-This series of demos accompanies the book <br>
-"Learn 2D Game Development with C#"<br>
-By Jebediah Pavleas, [Jack Chang](http://wei0831.net), Kelvin Sung, Rob Zhu
+# Book Example Code for <br>[Learn 2D Game Development with C&#35;](http://www.apress.com/9781430266044)
+This series of demos accompanies the book  
+"Learn 2D Game Development with C#"  
+By Jebediah Pavleas, Jack Chang, Kelvin Sung, Rob Zhu
 
-ISBN13: 978-1-4302-6604-4 <br>
-292 Pages <br>
-User Level: Beginner to Intermediate<br>
-Publication Date: December 21, 2013<br>
+ISBN13: 978-1-4302-6604-4  
+292 Pages  
+User Level: Beginner to Intermediate  
+Publication Date: December 21, 2013  
 
-#Checkout the Book
-[**Apress**](http://www.apress.com/9781430266044)<br>
+# Checkout the Book
+[**Apress**](http://www.apress.com/9781430266044)  
 [**Amazon**](http://www.amazon.com/gp/product/143026604X)
 
-#Download Book Example Package
+# Download Book Example Package
 This repository contains **only source codes** and **does not contain dependencies and assets**.<br>
 To be able to compile all the examples, <br>Please download the [**Full package of book example**](http://www.apress.com/downloadable/download/sample/sample_id/1488/).
 
-#To Run
+# To Run
 You need the following:
 * Microsoft Visual Studio : [http://www.visualstudio.com/](http://www.visualstudio.com/)
 * MonoGame : [http://www.monogame.net/](http://www.monogame.net/)
 
-#Technology References
+# Technology References
 The following list offers several links for obtaining additional information on general topics both
 related and unrelated to this book.
 
