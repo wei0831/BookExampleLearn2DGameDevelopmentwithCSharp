@@ -1,4 +1,7 @@
-# Book Example Code for <br>[Learn 2D Game Development with C&#35;](http://www.apress.com/9781430266044)
+# Learn 2D Game Development with CSharp 
+Book Example Code for [Learn 2D Game Development with C&#35;](http://www.apress.com/9781430266044)
+
+# About 
 This series of demos accompanies the book  
 "Learn 2D Game Development with C#"  
 By Jebediah Pavleas, Jack Chang, Kelvin Sung, Rob Zhu
